@@ -1,0 +1,16 @@
+customer_name,drink,quantity,price,branch,payment_type,card_number,date_time
+Dave,Latte,2,€3.50,Epsom,Card,123456,12/06/2025
+Sarah,Cappucino,1,€3.00,Epsom,Card,123457,12/06/2025
+Mike ,Espresso,1,€1.00,Kingston,Cash,,12/06/2025
+Emma,Americano,3,€1.99,Epsom,Card,123458,12/06/2025
+John,Flat White,1,€1.75,Epsom,Cash,,12/06/2025
+Lisa,Mocha,1,€2.00,Kingston,Card,123459,12/06/2025
+Tom,Macchiato,2,€4.00,Epsom,Cash,,12/06/2025
+Amy,Latte,1,€1.75,Kingston,Cash,,12/06/2025
+Paul,Espresso,1,€2.80,Kingston,Card,123460,12/06/2025
+Kate,Cappucino,3,€9.00,Kingston,Card,123461,13/06/2025
+Mark,Americano,1,€1.99,Kingston,Card,123462,13/06/2025
+Sophie,Flat White,2,€3.90,Epsom,Cash,,13/06/2025
+Chris,Mocha,1,€2.00,Kingston,Card,123463,13/06/2025
+Lucy,Latte,1,€1.75,Kingston,Card,123464,13/06/2025
+Ben,"Espresso, Latte",2,€5.20,Epsom,Cash,,13/06/2025

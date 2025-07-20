@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql/mysql-server:8.0
+    platform: linux/x86_64
+    container_name: mysql_db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: cafe 
+      MYSQL_ROOT_HOST: '%'
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./schema.sql:/docker-entrypoint-initdb.d/schema.sql
